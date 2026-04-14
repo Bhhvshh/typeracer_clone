@@ -2,6 +2,8 @@
 
 A browser-based typing speed game inspired by [TypeRacer](https://play.typeracer.com/). Test and improve your typing speed (WPM) by racing against the clock while a car moves along a track as you type.
 
+![TypeRacer Clone Screenshot](https://github.com/user-attachments/assets/c1911cc9-ced6-4914-aafa-1381929a2c89)
+
 ## Features
 
 - Random passage fetched from a MongoDB database for each race
